@@ -3,7 +3,7 @@ branches:
 - master
 projects: 
   BaseFly:
-  path ""
+  Path ""
   model:
   icon: 
 ...
