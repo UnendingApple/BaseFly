@@ -1,8 +1,0 @@
-name: BaseFly
-api: 3.0.0-ALPHA12
-main: Fly/Main2
-version: 1.9
-author: Benzo
-commands:
- Fly:
-  description: Enables fly if you have needed permissions.
